@@ -21,7 +21,7 @@ choice = st.sidebar.selectbox("Navigation", menu)
 if choice == "Über mich":
     st.header("Wer ich bin")
     st.write("""
-    Als Computational Linguistin mit Erfahrung bei Cornerstone OnDemand und DeepL 
+    Als Computerlinguistin mit Erfahrung bei Cornerstone OnDemand und DeepL 
     habe ich gelernt, wie man semantische Strukturen analysiert und Datenqualität sicherstellt.
     Mein Ziel bei Sony Music ist es, diese analytische Präzision einzusetzen, um 
     Marketingstrategien zu optimieren und Fandoms nachhaltig aufzubauen.
